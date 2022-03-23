@@ -84,6 +84,7 @@ Example would be `([\da-z\.-]+)` - Matches `kaz989_jb.sa-sd@99email-us.com`
 
 ## Author
 
-Kazi Islam
+<strong>Kazi Islam</strong><br>
+`Github gist` - https://gist.github.com/kazichaska/a80c7b656b597dcbdf9444eac7a0e4c9 <br>
 Find me on Github [kazichaska](https://github.com/kazichaska)<br />
 Email me with any question: kazichaska@gmail.com <br />
